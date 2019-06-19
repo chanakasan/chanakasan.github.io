@@ -1,0 +1,17 @@
+.headerContent {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.headerContent h1 {
+  margin: 0;
+  line-height: 2em;
+}
+
+
+
+
+.box {
+  background: var(--color-main-box);
+  padding: 20px;
+  border-radius: 4px;
+}

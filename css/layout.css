@@ -1,0 +1,18 @@
+.container {
+  max-width: 960px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+
+
+.header {
+  background: var(--color-header);
+  margin: 0;
+  padding: 20px;
+  border: none;
+  width: 100vw;
+  height: 60px;
+}
